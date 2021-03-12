@@ -1,5 +1,5 @@
 # secret
-token = "ODE1OTg0MDU0Mzg2MDMyNzUx.YD0WXg.PCqrA_zC9bXeWS9wtirSkE6r3xQ"
+token = "YOUR TOKEN"
 
 # ^ secret (token)
 
